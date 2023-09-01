@@ -1,0 +1,199 @@
+[
+  {
+    "id": "1",
+    "title": "Foreword", 
+    "text": "The foreword welcomes new and continuing students to Leyte Normal University (LNU). It states that the student handbook is intended to provide information to help students understand the school's expectations and policies. Studying the handbook is encouraged as it will help students know what LNU can provide and what is expected of them in return. Schooling is noted as both a privilege and responsibility."
+  },
+
+  {
+    "id": "2", 
+    "title": "LNU: A Brief History",
+    "text": "LNU's history began in 1921 as the Provincial Normal School, which trained teachers for elementary education. In 1938 it became a 2-year collegiate institution independent of Leyte High School, offering the Elementary Teaching Certificate. In 1952 it became a 4-year degree granting college with a training department, known as Leyte Normal School. In 1976 it was converted to Leyte State College under Presidential Decree 944. In 1995 under Republic Act 7901 it became Leyte Normal University. Over the years LNU has offered increasing undergraduate and graduate programs, gaining Level I-III accreditation from AACCUP. It was named a Center of Excellence for Teacher Education and Training Excellence by CHED."
+  },
+  
+  {
+    "id": "3",
+    "title": "Philosophy and Objectives",
+    "text": "LNU's mission is to provide quality and relevant academic, research and extension programs that meet local and global development needs. Its vision is to be a center of quality leadership in teacher education, arts and sciences, and management and entrepreneurship. Objectives include: 1) Maintaining standards as a Center of Excellence within resource limits; 2) Providing an environment for serious study and research with tolerance for diverse ideas; 3) Developing God-centered, nationalistic, values-oriented students who can participate constructively in local and global needs."
+  },
+  
+  {
+    "id": "4", 
+    "title": "Curricular Programs",
+    "text": "LNU offers graduate and undergraduate programs across 3 colleges: College of Education - Graduate programs include Doctor and Master degrees in Educational Administration, Language Teaching, Educational Management, Special Education, Pre-Elementary Education, and Teaching specific subjects. Undergraduate programs include Bachelor of Elementary Education, Bachelor of Secondary Education, and Teacher Certificate Program. College of Arts and Sciences - Graduate programs include Doctor of Philosophy in Social Science Research and Master programs in English, Biology, Social Work, and Physical Education. Undergraduate programs include Bachelor's degrees in Communication, Political Science, English, Biology, Information Technology, Social Work, and Library and Information Science. College of Management and Entrepreneurship - Graduate programs include Doctor of Management in Human Resource Management and Master of Management. Undergraduate programs include Bachelor of Science in Tourism, Hotel and Restaurant Management."
+  },
+
+  {
+    "id": "5", 
+    "title": "Admissions",
+    "text": "Admission requirements are set by the department offering the program and published in advance. Applications can be filed starting in January each year. For undergraduate programs, requirements include passing entrance exam and interview, minimum high school GPA of 80% with no grade below 80 in key subjects, and minimum 85% GPA for transferees. For graduate programs, applicants must have relevant bachelor's degree for master's program or master's degree for doctorate program, satisfactory academics, and passing English exam." 
+  },
+
+  {
+    "id": "6",
+    "title": "Enrollment",
+    "text": "For enrollment, new students and transferees must pass exams and interview, submit documents like Form 137/138, certificate of good moral character, birth certificate, and medical certificate. Returnees need approved application for readmission, leave of absence form, report of ratings, and student clearance. Late enrollment allowed for one week after registration deadline with fine for each day late. Official dropping of subjects within first week of classes, otherwise student pays for full semester."
+  },
+
+  {
+    "id": "7", 
+    "title": "Fees",
+    "text": "Tuition, registration, and other fees are determined by the university. All payments made at Cashiering Section with official receipt. Enrollment fees paid during enrollment period, tuition in two installments. Students withdrawing may be charged per refund rules - 30% within 1 week whether attended classes or not, 50% within 2 weeks, 70% within 3 weeks, full after 4 weeks. Students with unsettled obligations cannot get transcripts or enroll again."
+  },
+  
+  {
+    "id": "8",
+    "title": "Student's Discounts",
+    "text": "Discounts available for: high school valedictorian (100% tuition), salutatorian (50%), dean's listers, performing groups, athletes, publication staff. High school graduates must have minimum 50 students in class to qualify. Recommendation from coaches/advisers needed for some."
+  },
+
+  {
+    "id": "9", 
+    "title": "Retention Policy", 
+    "text": "Students who get failing grades, multiple incomplete or conditional grades will be put on probation status. They must improve substantially next semester while on academic warning, otherwise will be denied enrollment for subsequent terms."
+  },
+
+  {
+    "id": "10",
+    "title": "Graduation Requirements", 
+    "text": "To graduate, students must satisfactorily complete all requirements for their program of study with no deficiencies and clean records. Registrar publishes graduation candidate list before end of each term. Graduation applications filed starting August for 1st semester, November for 2nd semester. Preliminary evaluation at Guidance Services."
+  },
+
+  {
+    "id": "11",
+    "title": "Dean's List",
+    "text": "The Dean's List recognizes outstanding academic achievement, published at the end of each semester. To qualify, students must: carry regular full curriculum load; obtain weighted average of at least 1.5; have no grade below 2.5. No Dean's List for summer term."
+  },
+
+  {
+    "id": "12", 
+    "title": "Honors and Special Awards",
+    "text": "Students who complete courses with weighted averages in certain ranges shall graduate with honors: Summa cum Laude (1.00-1.20), Magna cum Laude (1.21-1.45), Cum Laude (1.46-1.75) - provided they have no grade below 2.5, regular load, and at least 50% of units earned at LNU. Failing grade disqualifies honors. Special awards given for contributions, leadership, service, skills in chosen field, and continuous enrolment from elementary."
+  },
+
+  {
+    "id": "13",
+    "title": "Student Clearance",
+    "text": "Students given one month before finals to settle all obligations and get clearances from offices and departments, required for next term enrollment and transcript release. Senior students must accomplish clearance before leaving to avoid delays in documents."
+  },
+
+  {
+    "id": "14",
+    "title": "Academic Load",
+    "text": "Undergraduates must take at least 16 hours weekly lecture or equivalent for 1 unit credit. Graduates max 12 units per regular semester, 9 units during summer term for full-time students. Part-time graduate students max 9 units."
+  },
+
+  {
+    "id": "15", 
+    "title": "Class Attendance",
+    "text": "Students required to attend classes regularly. After 3-4 unexcused absences, student warned and must get clearance admission slip. Automatically dropped if incurs over 7 absences. May petition Dean of Student Affairs for reconsideration. Less serious cases dealt with by teachers first before referral."
+  },
+
+  {
+    "id": "16",
+    "title": "Leave of Absence", 
+    "text": "Students may apply for Leave of Absence (LOA) for up to 2 consecutive semesters, with approval of college dean and Dean of Students. Clearance form from last enrolled semester required. Parental consent may be needed. Must file LOA within 2 months of failing to enroll to keep slot."
+  },
+
+  {
+    "id": "17",
+    "title": "Transfer Request", 
+    "text": "To transfer out, student must file credentials request and fully settle obligations and accountabilities first. Students required to withdraw not entitled to honorable dismissal and get note of disciplinary action in transcript."
+  },
+
+  {
+    "id": "18", 
+    "title": "Residence Requirements", 
+    "text": "Students expected to finish course in 4 years, maximum residence is 5 years. Must complete at least 1 year residence right before graduation."
+  },
+
+  {
+    "id": "19",
+    "title": "Grading System",
+    "text": "Numerical points and quality points used to compute GPA. Minimum passing is 3.0. Conditional grade of 4.0 must be removed next semester, or becomes 5.0 failure. INC must be completed in succeeding semester or becomes 5.0. Dean warns students with poor standing. Students can appeal grades to course professor first."
+  },
+
+  {
+    "id": "20",
+    "title": "Student Uniform",
+    "text": "Prescribed uniform to be worn appropriately inside campus at all times, except Wednesdays when decent civilian attire allowed. Guidelines provided - no inappropriate or revealing clothing. Proper grooming required. Certification needed for health-related exceptions."
+  },
+
+  {
+    "id": "21", 
+    "title": "Student ID",
+    "text": "Students must wear validated IDs at all times inside campus, visible and not transferable. Borrowing/lending prohibited. If lost, student signs affidavit of loss to enter. If confiscated, student must also sign form upon entry. Replacement requested from Dean of Students."
+  },
+
+  {
+    "id": "22",
+    "title": "Field Trips/Student Travels",
+    "text": "All student activities outside university require approval from officials per outlined procedures. Within Tacloban needs 1 week request to VPAA. Other domestic locations need 2 weeks request to President thru VPAA. International trips need 1 month request to President thru VPAA for Board of Regents approval. No trips approved 2 weeks before major exams."
+  },
+
+  {
+    "id": "23", 
+    "title": "Medical and Dental Services",
+    "text": "Health services provided through university clinic - exams, consultations, referrals, certifications, oral prophylaxis, tooth filling. Students get one free dental service per semester for extraction, filling, or prophylaxis. Other services by appointment."
+  },
+
+  {
+    "id": "24",
+    "title": "Food Services", 
+    "text": "Food services include LNU cafeteria and cooperative. Cafeteria provides affordable meals and snacks from 9am-12:30pm and 1:30-4pm daily, cash basis only. Policies promote consideration of others and proper use of facilities which are not to be taken out. Smoking prohibited."
+  },
+
+  {
+    "id": "25",
+    "title": "Dormitory",
+    "text": "Dorm stay privileges given first-come, first-served. Residents expected to uphold proper conduct and values of community living and time management."
+  },
+
+  {
+    "id": "26", 
+    "title": "Publications",
+    "text": "Students may publish materials to disseminate information and opinions, under guidance of faculty adviser. Editor and staff must pass competitive exam and interview, then recommended for Dean of Student Affairs' approval. Publications must follow institutional policies."
+  },
+
+  {
+    "id": "27",
+    "title": "Performing Groups",
+    "text": "Students are encouraged to join performing groups to showcase talents and enhance learning - LNU Brass Band, Chorale, Rondalla, Dance Troupe, and Theater Ensemble."
+  },
+
+  {
+    "id": "28",
+    "title": "Student Governance and Organizations", 
+    "text": "LNU recognizes students' right to organize and participate in campus organizations for their interests, within institutional policies. The LNU Supreme Student Council (LNU-SSC) is the highest student governing body. Student organizations must be accredited by LNU-SSC and Office of Student Affairs."
+  },
+
+  {
+    "id": "29", 
+    "title": "Co-Curricular and Extracurricular Activities",
+    "text": "LNU encourages student participation in school activities outside classroom, provided they do not negatively impact studies. Co-curricular activities enrich course learning, while extracurricular activities supplement classroom instruction."
+  },
+
+  {
+    "id": "30",
+    "title": "Policies on Sexual Harassment",
+    "text": "LNU is committed to preventing sexual harassment. Cases are covered by implementing guidelines of the Anti-Sexual Harassment Act of 1995. An ad hoc committee will investigate alleged cases."
+  },
+
+  {
+    "id": "31",
+    "title": "Policies on Hazing",
+    "text": "LNU is committed to preventing hazing in any form. Cases are covered by implementing guidelines of the Anti-Hazing Law. An ad hoc committee will investigate alleged cases."
+  },
+
+  {
+    "id": "32",
+    "title": "Emergency Procedures",
+    "text": "Safety tips provided for emergency cases like fire and earthquake. Key points include remaining calm, following instructions, going to open spaces, being aware of hazards, listening to authorities, not rushing, and not believing rumors."
+  },
+
+  {
+    "id": "33", 
+    "title": "Ways to Enjoy Campus Life", 
+    "text": "Students are advised to: 1) Develop good study habits as studies are top priority; 2) Know and follow university policies and rules; 3) Observe proper behavior and discipline; 4) Maintain respect, courtesy and honesty; 5) Actively participate in student organizations and activities."
+  }
+]

@@ -16,7 +16,7 @@ if "messages" not in st.session_state.keys():
 def load_data():
     with st.spinner(text="Loading and indexing the Student Handbook – hang tight! This should take 1-2 minutes."):
         reader = SimpleDirectoryReader(
-            input_files=["/home/nadelacruz/Dev/PythonProjects/pythonProject_elastic/handbook_data.json"]
+            input_files=["./handbook_data.json"]
         )
         docs = reader.load_data()
         service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.5,
