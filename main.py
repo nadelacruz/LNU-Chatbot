@@ -3,7 +3,7 @@ from llama_index.llms import OpenAI
 from llama_index import VectorStoreIndex, ServiceContext, SimpleDirectoryReader
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 st.header("Chat directly with the LNU Student Handbook 💬 📚!")
 
 if "messages" not in st.session_state.keys():
@@ -14,12 +14,12 @@ if "messages" not in st.session_state.keys():
 
 @st.cache_resource(show_spinner=False)
 def load_data():
-    with st.spinner(text="Loading and indexing the Student Handbook – hang tight! This should take 1-2 minutes."):
+    with st.spinner(text="Loading and indexing the Student Handbook – hang tight! This should take 1-3 minutes."):
         reader = SimpleDirectoryReader(
             input_files=["./handbook_data.json"]
         )
         docs = reader.load_data()
-        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-4", temperature=0.5,
+        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.5,
                                                                   system_prompt="You are an expert on the Leyte Normal University Student Handbook and your job is to answer technical questions. Assume that all questions are related to the Leyte Normal University Student Handbook. Keep your answers technical and based on facts – do not hallucinate features."))
         temp_index = VectorStoreIndex.from_documents(docs, service_context=service_context)
         return temp_index
