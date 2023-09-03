@@ -3,7 +3,7 @@ from llama_index.llms import OpenAI
 from llama_index import VectorStoreIndex, ServiceContext, SimpleDirectoryReader
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 st.header("Chat directly with the LNU Student Handbook 💬 📚!")
 
 if "messages" not in st.session_state.keys():
@@ -19,7 +19,7 @@ def load_data():
             input_files=["./handbook_data.json"]
         )
         docs = reader.load_data()
-        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.5,
+        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-4", temperature=0.5,
                                                                   system_prompt="You are an expert on the Leyte Normal University Student Handbook and your job is to answer technical questions. Assume that all questions are related to the Leyte Normal University Student Handbook. Keep your answers technical and based on facts – do not hallucinate features."))
         temp_index = VectorStoreIndex.from_documents(docs, service_context=service_context)
         return temp_index
@@ -27,7 +27,7 @@ def load_data():
 
 index = load_data()
 
-chat_engine = index.as_chat_engine(chat_mode="condense_question", verbose=True)
+chat_engine = index.as_chat_engine(chat_mode="context", verbose=True)
 
 if prompt := st.chat_input("Your question"):
     st.session_state.messages.append({"role": "user", "content": prompt})
