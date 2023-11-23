@@ -3,7 +3,7 @@ from llama_index.llms import OpenAI
 from llama_index import VectorStoreIndex, ServiceContext, SimpleDirectoryReader
 import openai
 
-openai.api_key = "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"
+openai.api_key = st.secrets["openaikey"]
 st.header("Chat directly with the LNU Student Handbook 💬 📚!")
 
 if "messages" not in st.session_state.keys():
